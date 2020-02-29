@@ -34,7 +34,7 @@ Le but de ce projet est donc d'appliquer les "instructions" de chaque article du
 
 ### Ajouter un article
 
-Tout les 64 articles du projet du loi ne sont pas encore fait, la façon la plus simple de participer est d'en faire un qui n'est pas encore fait.
+Tout les 82 articles du projet du loi ne sont pas encore fait, la façon la plus simple de participer est d'en faire un qui n'est pas encore fait.
 
  1. Ouvrez [le projet de loi](http://www.assemblee-nationale.fr/dyn/15/textes/l15b2488_projet-loi)
  2. Prendre un article
