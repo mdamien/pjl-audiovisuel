@@ -30,7 +30,7 @@ Le but de ce projet est donc d'appliquer les "instructions" de chaque article du
 ### Organisation
 
 - La branche `loi-en-vigeur` contient les codes et lois avant modification
-- Les branches `articles-<numéro de l'article>` se basent sur la `loi-en-vigeur` et appliquent l'article.
+- Les branches `article-<numéro de l'article>` se basent sur la `loi-en-vigeur` et appliquent l'article.
 
 ### Ajouter un article
 
